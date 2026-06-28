@@ -1,3 +1,0 @@
-*.fedorainfracloud.org
-*.fedoraproject.org
-*.gov.*
